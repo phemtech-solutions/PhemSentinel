@@ -1,0 +1,10 @@
+Jun 10 03:10:41 server sshd[12345]: Failed password for invalid user root from 192.168.1.10 port 42122 ssh2
+Jun 10 03:10:42 server sshd[12345]: Failed password for invalid user root from 192.168.1.10 port 42123 ssh2
+Jun 10 03:10:43 server sshd[12345]: Failed password for invalid user root from 192.168.1.10 port 42124 ssh2
+Jun 10 03:10:44 server sshd[12345]: Failed password for invalid user root from 192.168.1.10 port 42125 ssh2
+Jun 10 03:10:45 server sshd[12345]: Failed password for invalid user root from 192.168.1.10 port 42126 ssh2
+Jun 10 03:10:46 server sshd[12345]: Failed password for invalid user root from 192.168.1.10 port 42127 ssh2
+Jun 10 03:11:01 server sshd[23456]: Failed password for invalid user admin from 10.0.0.50 port 60110 ssh2
+Jun 10 03:11:02 server sshd[23456]: Failed password for invalid user admin from 10.0.0.50 port 60111 ssh2
+Jun 10 03:15:11 server sshd[33333]: Accepted password for user1 from 192.168.1.5 port 52222 ssh2
+Jun 10 03:16:22 server sudo:    user1 : TTY=pts/0 ; PWD=/home/user1 ; USER=root ; COMMAND=/bin/apt update
