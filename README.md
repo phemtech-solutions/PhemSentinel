@@ -19,7 +19,7 @@ It also leverages **AI** to explain log entries in plain English — ideal for l
 ## 🌐 Live Demo
 
 👉 Try it here:  
-[https://phemtech-solutions-phemsentinel.streamlit.app](https://phemtech-solutions-phemsentinel.streamlit.app)
+[https://phemsentinel-c8zukqm5egllzqv6fswgj4.streamlit.app](https://phemsentinel-c8zukqm5egllzqv6fswgj4.streamlit.app)
 
 
 ## 🧠 How the AI Works
